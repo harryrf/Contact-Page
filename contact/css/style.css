@@ -1,0 +1,29 @@
+body {
+  background-color: #666;
+}
+
+#top-bar {
+  height: 20px;
+  background-color: #333;
+  border-bottom: 2px solid #222;
+}
+
+.buttons {
+  margin-right: 6px;
+  box-shadow: 0px 0px 2px 1px rgba(0,0,0,0.75) !important;
+  
+}
+
+#img-container {
+  margin-top: 30px;
+}
+
+#page-img {
+  border: 1px solid #888;
+  border-radius: 3px;
+  box-shadow: 0px 0px 2px 1px rgba(0,0,0,0.75);
+}
+
+#btn-container {
+  margin-top: 30px;
+}
